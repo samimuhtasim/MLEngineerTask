@@ -2,7 +2,7 @@
 
 How to use:
 
-Run script.py from terminal like <i> python3 script.py /location/ </i>
+Run the model.ipynb file to create the saved model. Run script.py from terminal like <i> python3 script.py /location/ </i>
 
 Model Used: KNN OneVsRestClassifier
 
